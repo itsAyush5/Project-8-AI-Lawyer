@@ -831,16 +831,18 @@ body::before {
     padding: 2rem 0;
     text-align: center;
     margin-top: 4rem;
+    text-decoration: none;
 }
 
 .footer p {
     color: var(--text-secondary);
     font-size: 0.875rem;
     margin: 0.25rem 0;
+    text-decoration: none;
 }
 .footer a {
       color: var(--text-secondary);
-      ttext-decoration: none;
+      text-decoration: none;
 }
 /* ===== Loading Overlay ===== */
 .loading-overlay {
