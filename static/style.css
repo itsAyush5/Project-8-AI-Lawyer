@@ -840,6 +840,7 @@ body::before {
 }
 .footer a {
       color: var(--text-secondary);
+      ttext-decoration: none;
 }
 /* ===== Loading Overlay ===== */
 .loading-overlay {
